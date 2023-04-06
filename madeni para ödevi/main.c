@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//shgdjgasdhjsagdhgahsjgd
 int enAzMadPara(int madeniPara[], int madeniSayisi, int miktar) {
     int DP[miktar+1]; // DP tablosu, ihtiyacýmýz olan madeni para sayýsýný tutar.
     int i, j;//i ve j deðerlerini tanýmladýk
